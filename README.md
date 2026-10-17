@@ -22,6 +22,9 @@ pip3 install -r requirements.txt
 # you can put theses libs accessing .venv folder
 .venv/bin/pip3 freeze > requirements.txt
 
+# generate pylint file
+pylint --generate-rcfile > .pylintrc
+
 # most used flask cli commands
 flask run # run flask app
 flask shell # create/open flask instance
