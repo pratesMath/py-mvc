@@ -4,5 +4,8 @@
         "**/__pycache__": true,
 		"**/.pytest_cache": true,
 	},
-    "pylint.enabled": true
+    "pylint.enabled": true,
+    "cSpell.words": [
+        "sessionmaker"
+    ]
 }
