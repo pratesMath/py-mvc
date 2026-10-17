@@ -1,4 +1,5 @@
 [MAIN]
+
 disable=
     C0114, #Missing-module-docstring
     C0115, # Missing-class-docštring

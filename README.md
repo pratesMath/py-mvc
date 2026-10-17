@@ -25,6 +25,9 @@ pip3 install -r requirements.txt
 # generate pylint file
 pylint --generate-rcfile > .pylintrc
 
+# pre-commit
+pre-commit install
+
 # most used flask cli commands
 flask run # run flask app
 flask shell # create/open flask instance
