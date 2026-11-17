@@ -1,3 +1,4 @@
+annotated-types==0.8.0
 astroid==3.1.0
 blinker==1.9.0
 cfgv==3.5.0
@@ -20,6 +21,8 @@ packaging==26.3
 platformdirs==4.13.3
 pluggy==1.7.0
 pre_commit==4.7.0
+pydantic==2.7.1
+pydantic_core==2.18.2
 Pygments==2.21.0
 pylint==3.1.0
 pytest==9.1.1
